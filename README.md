@@ -15,12 +15,12 @@
 
 ## 01 — A little about me
 
-I’m a **Software Development and Management Engineering student** from Nayarit, Mexico. I enjoy understanding how things work, turning complex problems into clear interfaces, and continuously improving the details that make software useful.
+I'm a **Software Development and Management Engineering student** from Nayarit, Mexico, with a curiosity for understanding how things work and turning ideas into meaningful digital experiences.
 
-I focus on **full-stack web development**, especially **Next.js, React, JavaScript and TypeScript**. My work includes a personal finance application, an independent AI project and technical coordination in a university development team.
+I enjoy **full-stack web development**, particularly working with **Next.js, React, JavaScript, and TypeScript**. I've had the opportunity to contribute to real-world applications, build independent projects, and collaborate with university teams, always looking for new challenges and ways to improve.
 
-**Currently** — Exploring ideas through personal and collaborative projects.  
-**Open to** — Paid software engineering internships starting **January 2027** (official university internship: January–April 2027).
+**Currently** — Learning, building, and exploring new ideas through personal and collaborative projects.  
+**Open to** — Software Engineering Internship opportunities starting in **January 2027**.
 
 ## 02 — Things I build with
 
